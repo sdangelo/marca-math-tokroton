@@ -1,0 +1,32 @@
+{
+  "name": "marca-math-tokroton",
+  "version": "0.1.0",
+  "description": "Math-to-Kroton for Marca",
+  "main": "marca-math-tokroton.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sdangelo/marca-math-tokroton.git"
+  },
+  "keywords": [
+    "marca",
+    "math",
+    "markup",
+    "language",
+    "kroton",
+    "layout",
+    "typesetting"
+  ],
+  "author": "Stefano D'Angelo <zanga.mail@gmail.com> (http://sdangelo.github.io/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sdangelo/marca-math-tokroton/issues",
+    "email": "zanga.mail@gmail.com"
+  },
+  "peerDependencies": {
+    "marca-math": "0.1.x",
+    "kroton": "0.0.x"
+  }
+}
