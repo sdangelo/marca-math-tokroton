@@ -1,4 +1,4 @@
-# Marca-to-Kroton
+# Marca-math-to-Kroton
 
 Math-to-[Kroton](https://github.com/sdangelo/kroton) for [Marca](https://github.com/sdangelo/marca).
 
